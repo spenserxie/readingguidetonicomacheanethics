@@ -16,7 +16,5 @@
 
          iii. 定义与人们关于善所说的东西一致（1.12）
 
-![](.gitbook/assets/wechatimg79.jpeg)
-
-![](.gitbook/assets/wechatimg78.jpeg)
+![](.gitbook/assets/screen-shot-2021-06-10-at-7.41.22-pm.png)
 
