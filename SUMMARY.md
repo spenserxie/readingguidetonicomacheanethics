@@ -21,13 +21,10 @@
 
 ## 卷二 <a id="book-2"></a>
 
-* [卷二的结构](book-2/juan-er-de-jie-gou.md)
-
----
-
-* [2.1 道德德性](2.1-dao-de-de-xing.md)
-* [2.2 实践的逻各斯的性质](2.2-shi-jian-de-luo-ge-si-de-xing-zhi.md)
-* [2.3 快乐与痛苦作为品质的表征](2.3-kuai-le-yu-tong-ku-zuo-wei-pin-zhi-de-biao-zheng.md)
-* [2.4 合德性的行为与有德性的人](2.4-he-de-xing-de-hang-wei-yu-you-de-xing-de-ren.md)
-* [2.5 德性的定义：种](2.5-de-xing-de-ding-yi-zhong.md)
+* [卷二的结构](book-2/2-structure.md)
+* [2.1 道德德性](book-2/2-1.md)
+* [2.2 实践的逻各斯的性质](book-2/2-2.md)
+* [2.3 快乐与痛苦作为品质的表征](book-2/2-3.md)
+* [2.4 合德性的行为与有德性的人](book-2/2-4.md)
+* [2.5 德性的定义：种](book-2/2-5.md)
 
