@@ -1,8 +1,14 @@
 # Table of contents
 
 * [导言](README.md)
-* [卷一的结构](juan-yi-de-jie-gou.md)
-* [1.1 善作为目的](1.1-shan-zuo-wei-mu-de.md)
+
+## 卷一
+
+* [卷一的结构](juan-yi/juan-yi-de-jie-gou.md)
+* [1.1 善作为目的](juan-yi/1.1-shan-zuo-wei-mu-de.md)
+
+---
+
 * [1.2 最高善与政治学](1.2.md)
 * [1.3 政治学的性质](1.3-zheng-zhi-xue-de-xing-zhi.md)
 * [1.4 幸福作为最高善](1.4-xing-fu-zuo-wei-zui-gao-shan.md)
