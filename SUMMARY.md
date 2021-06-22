@@ -2,10 +2,10 @@
 
 * [导言](README.md)
 
-## 卷一
+## 卷一 <a id="book-1"></a>
 
-* [卷一的结构](juan-yi/juan-yi-de-jie-gou.md)
-* [1.1 善作为目的](juan-yi/1.1-shan-zuo-wei-mu-de.md)
+* [卷一的结构](book-1/book-1-structure.md)
+* [1.1 善作为目的](book-1/1-1.md)
 
 ---
 
