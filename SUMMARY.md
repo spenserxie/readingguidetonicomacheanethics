@@ -4,23 +4,23 @@
 
 ## 卷一 <a id="book-1"></a>
 
-* [卷一的结构](book-1/book-1-structure.md)
+* [卷一的结构](book-1/1-structure.md)
 * [1.1 善作为目的](book-1/1-1.md)
+* [1.2 最高善与政治学](book-1/1-2.md)
+* [1.3 政治学的性质](book-1/1-3.md)
+* [1.4 幸福作为最高善](book-1/1-4.md)
+* [1.5 三种生活](book-1/1-5.md)
+* [1.6 柏拉图的善理念](book-1/1-6.md)
+* [1.7 属人的善的概念](book-1/1-7.md)
+* [1.8 属人的善概念的辩护](book-1/1-8.md)
+* [1.9 幸福的获得](book-1/1-9.md)
+* [1.10 在世幸福](book-1/1-10.md)
+* [1.11 后人的命运对幸福的影响](book-1/1-11.md)
+* [1.12 称赞与幸福](book-1/1-12.md)
+* [1.13 德性引论](book-1/1-13.md)
 
 ---
 
-* [1.2 最高善与政治学](1.2.md)
-* [1.3 政治学的性质](1.3-zheng-zhi-xue-de-xing-zhi.md)
-* [1.4 幸福作为最高善](1.4-xing-fu-zuo-wei-zui-gao-shan.md)
-* [1.5 三种生活](1.5-san-zhong-sheng-huo.md)
-* [1.6 柏拉图的善理念](1.6-bai-la-tu-de-shan-li-nian.md)
-* [1.7 属人的善的概念](1.7.md)
-* [1.8 属人的善概念的辩护](1.8-shu-ren-de-shan-gai-nian-de-bian-hu.md)
-* [1.9 幸福的获得](1.9-xing-fu-de-huo-de.md)
-* [1.10 在世幸福](1.10-zai-shi-xing-fu.md)
-* [1.11 后人的命运对幸福的影响](1.11-hou-ren-de-ming-yun-dui-xing-fu-de-ying-xiang.md)
-* [1.12 称赞与幸福](1.12-cheng-zan-yu-xing-fu.md)
-* [1.13 德性引论](1.13-de-xing-yin-lun.md)
 * [卷二的结构](juan-er-de-jie-gou.md)
 * [2.1 道德德性](2.1-dao-de-de-xing.md)
 * [2.2 实践的逻各斯的性质](2.2-shi-jian-de-luo-ge-si-de-xing-zhi.md)
