@@ -48,11 +48,9 @@ Michael Pakaluk, Aristotle’s Nicomachean Ethics an introduction \(Cambridge Un
 
 Ronald Polansky \(ed.\), The Cambridge Companion on Aristotle’s Nicomachean Ethics \(Cambridge University Press, 2014\)
 
-Ronna Burger  著 柯小刚译， 《尼各马可伦理学义疏 --亚里士多德与苏格拉底的对话》（华夏出版社，2011）
+Ronna Burger 著 柯小刚译， 《尼各马可伦理学义疏 --亚里士多德与苏格拉底的对话》（华夏出版社，2011）
 
 玛莎 纳斯鲍姆 著 徐向东 陆萌 译， 《善的脆弱性：古希腊悲剧和哲学中的运气与伦理》（译林出版社，2007
 
-![](.gitbook/assets/screen-shot-2021-06-10-at-7.41.22-pm.png)
-
-
+![](.gitbook/assets/screen-shot-2021-06-10-at-7.41.22-pm%20%284%29.png)
 
