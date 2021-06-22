@@ -19,9 +19,12 @@
 * [1.12 称赞与幸福](book-1/1-12.md)
 * [1.13 德性引论](book-1/1-13.md)
 
+## 卷二 <a id="book-2"></a>
+
+* [卷二的结构](book-2/juan-er-de-jie-gou.md)
+
 ---
 
-* [卷二的结构](juan-er-de-jie-gou.md)
 * [2.1 道德德性](2.1-dao-de-de-xing.md)
 * [2.2 实践的逻各斯的性质](2.2-shi-jian-de-luo-ge-si-de-xing-zhi.md)
 * [2.3 快乐与痛苦作为品质的表征](2.3-kuai-le-yu-tong-ku-zuo-wei-pin-zhi-de-biao-zheng.md)
